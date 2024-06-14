@@ -6,6 +6,8 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 emqx:latest
 #docker常用
-home-assistant:latest
-node-red:latest
-drawio:latest 
+homeassistant/amd64-addon-mosquitto:6.4.1
+pull mysql:8.0.37-debian
+nodered/node-red:3.1-debian
+docker/compose:debian-1.29.2
+fjudith/draw.io:alpine
