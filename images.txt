@@ -34,3 +34,4 @@ onlyoffice/documentserver:latest
 rustdesk/rustdesk-server:latest
 imaegoo/twikoo:latest
 yidadaa/chatgpt-next-web:v2.12.3
+wordpress:latest
