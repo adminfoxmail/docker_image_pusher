@@ -3,8 +3,10 @@ louislam/dockge:1
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-emqx:latest
+
 #docker常用 
+emqx:5.7.0
+emqx:latest
 homeassistant/home-assistant:2024.6
 mysql:latest
 nodered/node-red:latest
