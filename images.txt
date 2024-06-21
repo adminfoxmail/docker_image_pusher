@@ -29,6 +29,7 @@ nextcloud:latest
 xhofe/alist:latest
 snowdreamtech/frpc:latest
 snowdreamtech/frps:latest
+linkease/ddnsto:latest
 
 onlyoffice/documentserver:latest
 rustdesk/rustdesk-server:latest
