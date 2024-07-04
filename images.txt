@@ -17,6 +17,7 @@ nginxproxymanager/nginx-full:latest
 node:latest
 mongo:latest
 mongo-express:latest
+cloudreve/cloudreve:latest
 filebrowser/filebrowser:latest
 redis:latest
 rediscommander/redis-commander:latest
