@@ -11,6 +11,7 @@ excalidraw/excalidraw:latest
 emqx:5.7.0
 emqx:latest
 homeassistant/home-assistant:2024.6
+homeassistant/home-assistant:latest
 mysql:latest
 nodered/node-red:latest
 docker/compose:1.29.2
